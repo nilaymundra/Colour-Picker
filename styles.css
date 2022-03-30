@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.heading h1{
+    margin: 20px;
+    padding: 10px;
+    font-size: 32px;
+}
+
+.heading h1 span.random-color{
+    font-size: 48px;
+    display: inline-block;
+    margin: 10px;
+}
